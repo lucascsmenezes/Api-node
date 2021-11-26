@@ -1,0 +1,44 @@
+[
+  {
+      "id": "1",
+      "nome": "Lucas",
+      "telefone": "13982147196",
+      "endereco": "Rua dos andradas, Peruibe/Sp"
+  },
+  {
+    "id": "2",
+    "nome": "Mario",
+    "telefone": "1398458456",
+    "endereco": "Rua rio de janeiro Peruibe/Sp"
+  },
+  {
+    "id": "3",
+    "nome": "Pedro",
+    "telefone": "1398217458",
+    "endereco": "Rua domingos de moraes Peruibe/Sp"
+  },
+  {
+    "id": "4",
+    "nome": "Antonia",
+    "telefone": "13977515269",
+    "endereco": "Rua Jucelino andrade Peruibe/Sp"
+  },
+  {
+    "id": "5",
+    "nome": "Luiz",
+    "telefone": "13996541245",
+    "endereco": "Rua Pedro goncalves Peruibe/Sp"
+  },
+  {
+    "id": "6",
+    "nome": "Ana",
+    "telefone": "13997484365",
+    "endereco": "Rua Azimiro de menezes Peruibe/Sp"
+  },
+  {
+    "id": "7",
+    "nome": "Bia",
+    "telefone": "13974251687",
+    "endereco": "Rua Vinicios figueredo 135 Peruibe/Sp"
+  }  
+]
